@@ -32,7 +32,7 @@ API RESTful para um sistema de carteira financeira, permitindo que os usuários 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/LuizaFerri/carteira-financeira.git
+git clone https://github.com/LuizaFerri/financial-wallet-ap.git
 cd carteira-financeira
 ```
 
@@ -52,7 +52,7 @@ docker-compose up -d
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/LuizaFerri/carteira-financeira.git
+git clone https://github.com/LuizaFerri/financial-wallet-ap.git
 cd carteira-financeira
 ```
 
