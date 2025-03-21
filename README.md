@@ -32,8 +32,8 @@ API RESTful para um sistema de carteira financeira, permitindo que os usuários 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/LuizaFerri/financial-wallet-ap.git
-cd carteira-financeira
+git clone https://github.com/LuizaFerri/financial-wallet-api.git
+cd financial-wallet-api
 ```
 
 2. Crie um arquivo `.env` na raiz do projeto (use o `.env.example` como base):
@@ -46,14 +46,14 @@ cp .env.example .env
 docker-compose up -d
 ```
 
-4. A API estará disponível em http://localhost:3000/api
+4. A API estará disponível em http://localhost:3000
 
 ### Instalação manual
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/LuizaFerri/financial-wallet-ap.git
-cd carteira-financeira
+git clone https://github.com/LuizaFerri/financial-wallet-api.git
+cd financial-wallet-api
 ```
 
 2. Instale as dependências:
@@ -73,11 +73,11 @@ cp .env.example .env
 npm run start:dev
 ```
 
-6. A API estará disponível em http://localhost:3000/api
+6. A API estará disponível em http://localhost:3000
 
 ## Documentação da API
 
-A documentação completa da API está disponível através do Swagger UI em http://localhost:3000/api quando a aplicação estiver rodando.
+A documentação completa da API está disponível através do Swagger UI em http://localhost:3000 quando a aplicação estiver rodando.
 
 ### Endpoints principais
 
